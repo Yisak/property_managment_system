@@ -40,7 +40,7 @@ Welcome to our Internet Programming assignment - a full-stack property managemen
 
 ```bash
 # 1. Clone this masterpiece (and hope it works):
-git clone https://github.com/our-awesome-team/property-management
+git clone https://github.com/Yisak/property_managment_system.git
 
 # 2. Make XAMPP do the heavy lifting:
 # - Start Apache (cross fingers)
@@ -48,10 +48,10 @@ git clone https://github.com/our-awesome-team/property-management
 # - Sacrifice a keyboard to the coding gods
 
 # 3. The "It Should Work Maybe" Setup:
-cd property-management
+cd property_managment_system
 # Move this to your htdocs and pray
 # Import database.sql and hope no errors
-# Change passwords from 'password' to something else (please)
+# Change passwords from 'password' to something else (please) or don't, who cares 
 
 # 4. Try not to break everything on the first try
 # 5. When it breaks (because it will), cry a little
