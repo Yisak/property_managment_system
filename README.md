@@ -31,7 +31,7 @@ Keep tenant info, contracts, and payments organized - because your phone's galle
 - ❌ **Lost Repair Messages** → ✅ **Organized Request System**
 - ❌ **Paper Receipt Chaos** → ✅ **Digital Records**
 
-## 🚀 Get Started Faster Than Morning Coffee
+## 🚀 Get Started 
 ```bash
 # Clone and conquer landlord life
 git clone 
