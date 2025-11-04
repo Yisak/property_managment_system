@@ -1,6 +1,6 @@
-# PropertyPal: The Landlord's Secret Weapon 🇪🇹✨
+# PropertyPal: The Landlord's Secret Weapon ✨
 
-*Saving Ethiopian landlords from broker drama and awkward rent conversations since 2024*
+*Saving landlords from broker drama and awkward rent conversations*
 
 ---
 
