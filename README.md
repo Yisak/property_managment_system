@@ -1,2 +1,6 @@
-# property_managment_system
-    Owners can list properties and track rent      Tenants can pay rent and report problems  What we'll build it with:      HTML, CSS, JavaScript for the pages      PHP for the backend      MySQL for data storage
+The Landlord's Best Friend (or Digital Janitor) 🧹
+
+This full-stack Property Management System is here to handle the paperwork so you don't have to. No more chasing rent with a broom! Features a slick frontend (HTML, CSS, JS) and a backend that works harder than a toilet on move-in day.
+
+Frontend: HTML, CSS, JavaScript | Backend: [Your Backend Here]
+Track tenants, collect rent (virtually), and manage maintenance requests without losing your mind.
